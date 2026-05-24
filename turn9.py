@@ -9,7 +9,7 @@ SERIAL_PORT = "COM10"
 # 2. 波特率：必须与单片机 BlueSerial_Init 中的 115200 匹配
 BAUD_RATE = 9600
 # 3. API 配置
-API_KEY = "sk-2ecf0fac536c490898e8c2522a0464b9" 
+API_KEY = "你自己的API" 
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 # ==========================================
 
